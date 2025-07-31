@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\bin\Debug\02C#_Variables.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\bin\Debug\02C#_Variables.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\bin\Debug\02C#_Variables.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\obj\Debug\02C#_Variables.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\obj\Debug\02C#_Variables.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\obj\Debug\02C#_Variables.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\obj\Debug\02C#_Variables.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\02C#_Variables\obj\Debug\02C#_Variables.exe.config
