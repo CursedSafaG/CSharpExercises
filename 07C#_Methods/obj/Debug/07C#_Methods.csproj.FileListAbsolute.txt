@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\bin\Debug\07C#_Methods.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\bin\Debug\07C#_Methods.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\bin\Debug\07C#_Methods.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\obj\Debug\07C#_Methods.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\obj\Debug\07C#_Methods.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\obj\Debug\07C#_Methods.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\obj\Debug\07C#_Methods.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\07C#_Methods\obj\Debug\07C#_Methods.exe.config
