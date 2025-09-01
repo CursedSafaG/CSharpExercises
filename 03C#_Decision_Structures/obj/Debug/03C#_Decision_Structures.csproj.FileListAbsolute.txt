@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\bin\Debug\03C#_Decision_Structures.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\bin\Debug\03C#_Decision_Structures.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\bin\Debug\03C#_Decision_Structures.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\obj\Debug\03C#_Decision_Structures.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\obj\Debug\03C#_Decision_Structures.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\obj\Debug\03C#_Decision_Structures.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\obj\Debug\03C#_Decision_Structures.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\03C#_Decision_Structures\obj\Debug\03C#_Decision_Structures.exe.config

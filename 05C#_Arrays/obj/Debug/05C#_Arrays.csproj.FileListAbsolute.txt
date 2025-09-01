@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\obj\Debug\05C#_Arrays.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\obj\Debug\05C#_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\bin\Debug\05C#_Arrays.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\bin\Debug\05C#_Arrays.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\bin\Debug\05C#_Arrays.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\obj\Debug\05C#_Arrays.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\obj\Debug\05C#_Arrays.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\05C#_Arrays\obj\Debug\05C#_Arrays.exe.config

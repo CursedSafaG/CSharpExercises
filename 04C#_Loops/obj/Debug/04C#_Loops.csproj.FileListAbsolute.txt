@@ -1,0 +1,8 @@
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\bin\Debug\04C#_Loops.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\bin\Debug\04C#_Loops.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\bin\Debug\04C#_Loops.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\obj\Debug\04C#_Loops.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\obj\Debug\04C#_Loops.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\obj\Debug\04C#_Loops.exe
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\obj\Debug\04C#_Loops.pdb
+C:\Users\LENOVO\OneDrive\Desktop\Dosya\C#\C#İlkDers\04C#_Loops\obj\Debug\04C#_Loops.exe.config
